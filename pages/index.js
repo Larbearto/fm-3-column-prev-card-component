@@ -17,7 +17,9 @@ export default function Home() {
               the city or on your next road trip.
             </p>
             <div className='pt-6 pb-11 lg:pt-8'>
-              <button className='text-BrightOrange'>Learn More</button>
+              <button className='bg-white border-0 hover:bg-BrightOrange hover:text-white text-BrightOrange hover:border-white hover:border-2'>
+                Learn More
+              </button>
             </div>
           </div>
         </div>
@@ -30,7 +32,9 @@ export default function Home() {
               family vacation and off-road adventures.
             </p>
             <div className='pt-6 pb-11 lg:pt-8'>
-              <button className='text-DarkCyan hover:bg-DarkCyan'>Learn More</button>
+              <button className='bg-white border-0 text-DarkCyan hover:bg-DarkCyan hover:text-white hover:border-white hover:border-2'>
+                Learn More
+              </button>
             </div>
           </div>
         </div>
@@ -43,7 +47,9 @@ export default function Home() {
               of a luxury rental and arrive in style.
             </p>
             <div className='pt-6 pb-11 lg:pt-8'>
-              <button className='text-VeryDarkCyan hover:bg-VeryDarkCyan'>Learn More</button>
+              <button className='bg-white border-0 hover:bg-VeryDarkCyan hover:text-white hover:border-white hover:border-2 text-VeryDarkCyan'>
+                Learn More
+              </button>
             </div>
           </div>
         </div>

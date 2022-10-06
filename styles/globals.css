@@ -13,6 +13,6 @@
 
 @layer components {
   button {
-    @apply bg-white text-[14px] font-LexendDeca px-7 py-3 rounded-3xl;
+    @apply text-[14px] font-LexendDeca px-7 py-3 rounded-3xl;
   }
 }
